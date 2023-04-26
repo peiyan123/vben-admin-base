@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/45820381/234525884-d97ed629-9449-43b1-b89b-6e9ba94b1f11.png)
+
 <div align="center"> <a href="https://github.com/anncwb/vue-vben-admin"> <img alt="VbenAdmin Logo" width="200" height="200" src="https://anncwb.github.io/anncwb/images/logo.png"> </a> <br> <br>
 
 [![license](https://img.shields.io/github/license/anncwb/vue-vben-admin.svg)](LICENSE)
