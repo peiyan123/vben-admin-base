@@ -1,0 +1,12 @@
+{
+  "name": "ai-mark",
+  "version": "1.0.0",
+  "description": "thundersoft",
+  "main": "index.ts",
+  "dependencies": {
+    "rxjs": "^7.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}

@@ -1,0 +1,4 @@
+/**
+ * ImageDragInterface
+ */
+export interface ImageDragInterface { }
